@@ -15,7 +15,7 @@ Before you begin, make sure you have the following installed:
 1. Clone this repository (if you haven't already):
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/davender-singh1/two-tier-flask-app.git
    ```
 
 2. Navigate to the project directory:
