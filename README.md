@@ -3,6 +3,8 @@
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
 
+Video: https://youtu.be/LB5krMrygA4?si=HVni7-mar4Acr9ux
+
 ![image](https://github.com/davender-singh1/two-tier-flask-app/assets/106000634/274ca97d-948a-4da5-92ce-0cd474c989a0)
 
 ![image](https://github.com/davender-singh1/two-tier-flask-app/assets/106000634/595713b6-e2d2-49d1-87ba-bdd15e9c46c8)
